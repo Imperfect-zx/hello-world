@@ -1,7 +1,7 @@
 # hello-world
 Just test
 a+b problem
-cpp```
+```cpp
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
